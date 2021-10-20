@@ -1,0 +1,14 @@
+List of contributions (Jack Shang)
+- Implement task 0 code (document class set up)
+- Implement task 1 and 2 code (except Hapax Legoma)
+- Implement task 3 initially, but David changed it and corrected it.
+- Implement task 4 document divergence score
+- Implement task 5
+- Set up directory structure for Task 6 (Part 2 and 3)
+- Implement task 6 Complex numbers class
+- Implement task 6 DFT class
+- Implement task 6 Cryptography class
+- Implement task 6 Untangler class
+- Write javadoc for task 6
+- Debug task 1,2,3 lightly, debug task 4 document divergence until correct, debug task 5 until compile (with runtime exception)
+- Debug task 6
